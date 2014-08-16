@@ -2,11 +2,10 @@ var last = null;
 var storage = localStorage;
 
 var defaults = [
-    "https://pulled.site44.com/",
     "https://mail.google.com/",
     "https://www.google.com/calendar/",
     "https://www.dropbox.com/photos",
-    "https://github.com/graham"
+    "https://github.com/graham/dephalt"
 ];
 
 function get_pins() {
